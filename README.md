@@ -6,7 +6,7 @@
 - B.E., Chemical | Birla Institute of Technology and Science, Pilani (_May 2025_)
 
 ## Work Experience
-**Data Analyst Intern @ Grasim Industries (August 2024 - December 2024)
+Data Analyst Intern @ Grasim Industries (August 2024 - December 2024)
 -Analyzed the performance of a Multi-Stage Flash Evaporator, identifying key efficiency metrics and operational bottlenecks
 -Developed predictive models to optimize the control system for enhanced process stability and efficiency
 -Designed and implemented a performance monitoring system to track daily operational metrics
